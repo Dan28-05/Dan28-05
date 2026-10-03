@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Banner chứa chữ "Hi Dan" (Tải ảnh ở trên về lưu tên banner_hi_dan.png vào repo) -->
-  <img src="./banner_hi_dan.png" width="100%" alt="Hi Dan Banner" />
+  Hello I am Huynh Dan
   <br/><br/>
   Software Engineer | Full-Stack (.NET & Angular) • Python & AI Developer
   
