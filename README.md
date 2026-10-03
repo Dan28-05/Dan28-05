@@ -1,13 +1,10 @@
 <div align="center">
-
   <!-- Header Banner chứa chữ "Hi Dan" (Tải ảnh ở trên về lưu tên banner_hi_dan.png vào repo) -->
   <img src="./banner_hi_dan.png" width="100%" alt="Hi Dan Banner" />
   <br/><br/>
-
-  **Software Engineer | Full-Stack (.NET & Angular) • Python & AI Developer**
-
+  Software Engineer | Full-Stack (.NET & Angular) • Python & AI Developer
+  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+.NET+%2B+Angular;Python+%28FastAPI+%26+Django%29;AI+Engine+%26+Deep+Learning;Clean+Architecture+%26+Microservices)](https://git.io/typing-svg)
-
   <p>
     <a href="https://www.linkedin.com/in/%C4%91an-hu%E1%BB%B3nh-001976359/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
