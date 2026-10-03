@@ -75,13 +75,10 @@
 
 ### 📊 GitHub Activity
 
-<!-- HÀNG 1: GITHUB STATS & MOST USED LANGUAGES (Đặt cạnh nhau, cùng height=160px để đều tăm tắp và dài ra ngang) -->
-<p align="center">
-  <img height="160" src="https://github-readme-stats.shion.dev/api?username=Dan28-05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dan28-05&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&layout=compact" alt="Top Languages" />
-</p>
 
-<!-- HÀNG 2: GITHUB STREAK (Cùng chiều cao height=160px, nằm cân đối ở giữa) -->
+
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com/?user=Dan28-05&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img height="145" src="https://github-readme-stats.shion.dev/api?username=Dan28-05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" />
+  <img height="145" src="https://streak-stats.demolab.com/?user=Dan28-05&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img height="145" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dan28-05&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&layout=compact" alt="Top Languages" />
 </p>
